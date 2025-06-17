@@ -1,0 +1,3 @@
+Jun 17 2025 11:07:29
+{"type":2,"message":"opendir(C:\\Users\\Apple\\Local Sites\\better-body\\app\\public\/wp-content\/uploads\/et_temp): Failed to open directory: No such file or directory","file":"C:\\Users\\Apple\\Local Sites\\better-body\\app\\public\\wp-content\\themes\\Divi\\epanel\\custom_functions.php","line":1420}
+
